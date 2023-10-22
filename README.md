@@ -18,7 +18,7 @@ python manage.py runserver
 
 **Dasturni Boshqarish**
 
-* GET/ *  http://127.0.0.1:8000/api/ - Barcha bloglarni ko'rish uchun
+*GET/*  http://127.0.0.1:8000/api/ - Barcha bloglarni ko'rish uchun
 * Post/ *  http://127.0.0.1:8000/api/new - yangi blog yaratish
 * GET/ *  http://127.0.0.1:8000/api/id - bloglarni id bo'yicha ko'rish
 * Delete/ *  http://127.0.0.1:8000/api/id/delete - bloglarni id bo'yicha o'chirish
